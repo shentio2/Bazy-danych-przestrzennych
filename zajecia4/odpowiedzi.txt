@@ -1,0 +1,27 @@
+Zadanie 1:
+189273 km^2
+
+
+Zadanie 3:
+3570 km
+
+zadanie 4:
+średnia wysokość: 593.25 m
+w sumie 8 lotnisk militarnych, jedno powyżej 140 m n.p.n.
+
+zadanie 5:
+11 budynków
+
+zadanie 6:
+11 budynków
+
+zadanie 7:
+jest 8 takich przecięć
+
+zadanie 8:
+są 662 takie węzły
+
+zadanie 10:
+ubyło 17 wierzchołków (315 -> 298)
+pole powierzchni nieznacznie zmalało
+
